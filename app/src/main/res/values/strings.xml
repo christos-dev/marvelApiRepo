@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MarvelApplication</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="toolbar_text">Superhero Squad Maker</string>
+    <string name="squad_title">My Squad</string>
+    <string name="squad_hire">Hire to Squad</string>
+    <string name="squad_fire">Fire from Squad</string>
+    <string name="my_squad">My Squad</string>
+    <string name="delete_consent">Delete from Squad?\nAre you sure?</string>
+    <string name="dialog_confirm">Yes</string>
+    <string name="dialog_cancel">Cancel</string>
+</resources>
